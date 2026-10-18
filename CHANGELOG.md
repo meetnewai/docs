@@ -34,3 +34,4 @@ User-facing changes to [meetnewai.com](https://meetnewai.com). Dates are release
 - The home page is search, featured tools, then the full directory.
 - The free AI API page is in the navigation.
 <!-- changelog:end -->
+<!-- synced-through: #32 -->
